@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_satu"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Menu Satu"/>
+
+    <item
+        android:id="@+id/menu_dua"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Menu Dua"/>
+
+    <item
+        android:id="@+id/menu_tiga"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Menu Tiga"/>
+
+</menu>
